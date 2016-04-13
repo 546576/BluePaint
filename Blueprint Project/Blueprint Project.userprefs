@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ButtonColourPicker\RedButton.cs">
+    <Files>
+      <File FileName="Assets\blueprint.cs" Line="50" Column="6" />
+      <File FileName="Assets\Screenshot.cs" Line="5" Column="15" />
+      <File FileName="Assets\Paintscript.cs" Line="16" Column="48" />
+      <File FileName="Assets\CursorColour.cs" Line="1" Column="1" />
+      <File FileName="Assets\ButtonColourPicker\RedButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\PaintPixelScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\TestLevel.cs" Line="5" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
